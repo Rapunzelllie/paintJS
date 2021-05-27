@@ -24,6 +24,11 @@ body {
   align-items: center;
 }
 
+#jsRange {
+  cursor: pointer;
+  margin-bottom: 10px;
+}
+
 .controls_btns {
   margin-bottom: 30px;
 }
